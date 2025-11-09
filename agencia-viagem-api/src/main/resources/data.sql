@@ -1,0 +1,4 @@
+-- Arquivo opcional para dados iniciais
+-- Exemplo:
+-- INSERT INTO destino (nome, descricao, preco) VALUES ('Rio de Janeiro', 'Cidade Maravilhosa', 1500.00);
+-- INSERT INTO destino (nome, descricao, preco) VALUES ('São Paulo', 'Capital Financeira', 1200.00);
