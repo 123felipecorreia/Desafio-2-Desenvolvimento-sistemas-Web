@@ -14,6 +14,6 @@ public class AvaliacaoRequestDTO {
 
     @NotNull(message = "Nota é obrigatória")
     @Min(value = 1, message = "Nota mínima é 1")
-    @Max(value = 5, message = "Nota máxima é 5")
+    @Max(value = 10, message = "Nota máxima é 10")
     private Integer nota;
 }
